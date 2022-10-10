@@ -10,8 +10,6 @@ export class HeroComponent implements OnInit {
   paragraph : string = "Jingle bells ! Jingle bells! Jingle all the way! It is time to book your winter holiday!";
   btn : string = "Learn more";
   btnUrl : string = "";
-  why:string =""
-
 
   constructor() { }
 
